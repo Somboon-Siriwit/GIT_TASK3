@@ -28,6 +28,8 @@ class Walk( Transportation ):
 # Hello World........
 travel_cost = 0
 
+bird = "Hello World"
+
 #trip = [ Walk("KMITL","KMITL SCB Bank",0.6),
          #Taxi("KMITL SCB Bank","Ladkrabang Station",5),
          #Train("Ladkrabang Station","Payathai Station",40,6),
